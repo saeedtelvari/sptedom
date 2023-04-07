@@ -1,5 +1,12 @@
 [ 
     
+    
+{
+"koneksi": "CNAME",
+"hostku": "sptedom", // fill in the domain name you want
+"target": "saeedtelvari.github.io" // your github web link
+}
+    
 {
 "koneksi": "CNAME",
 "hostku": "jayg",
